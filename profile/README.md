@@ -1,4 +1,4 @@
-# CyberPath HQ
+# CyberPath
 
 **Making cybersecurity accessible to everyone.**
 
@@ -15,7 +15,7 @@ We're building tools, resources, and communities that empower people to:
 
 ## 📚 What We Offer
 
-### CyberPath
+### CertDb
 A free, comprehensive database of cybersecurity certifications and career paths. Whether you're just starting your journey or advancing your expertise, CyberPath helps you navigate the certification landscape with:
 
 - Detailed certification information and prerequisites
@@ -23,7 +23,7 @@ A free, comprehensive database of cybersecurity certifications and career paths.
 - Cost and time commitment estimates
 - Real-world relevance and industry recognition
 
-**Learn more:** [cyberpath-hq.com](https://cyberpath-hq.com)
+**Learn more:** [certdb.cyberpath-hq.com](https://certdb.cyberpath-hq.com)
 
 ### Orbis
 A **plugin-driven desktop application platform** built with Rust and React. Orbis enables developers to create powerful, extensible desktop applications using a declarative JSON-based UI schema system, WASM-sandboxed plugins, and flexible deployment modes (standalone or client-server).
@@ -53,7 +53,7 @@ Everyone is welcome. Check our individual repository guidelines for specific con
 
 | Project | Purpose | Status |
 |---------|---------|--------|
-| **CyberPath** | Certification database and career guidance | Active |
+| **CertDb** | Certification database and career guidance | Active |
 | **Orbis** | Plugin-driven desktop application platform | Active |
 
 ## 🔒 Security First
@@ -66,4 +66,4 @@ Most of our projects operate under open-source licenses. See individual reposito
 
 ---
 
-**CyberPath HQ** • Making cybersecurity easier and more accessible for everyone.
+**CyberPath** • Making cybersecurity easier and more accessible for everyone.
