@@ -2,7 +2,7 @@
 
 **Making cybersecurity accessible to everyone.**
 
-CyberPath HQ is a community-driven organization dedicated to democratizing cybersecurity education, secure development practices, and professional growth. We believe that cybersecurity expertise should be within reach for students, professionals, and organizations of all sizes.
+CyberPath is a community-driven organization dedicated to democratizing cybersecurity education, secure development practices, and professional growth. We believe that cybersecurity expertise should be within reach for students, professionals, and organizations of all sizes.
 
 ## 🎯 Our Mission
 
