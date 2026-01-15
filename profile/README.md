@@ -1,6 +1,12 @@
-# CyberPath
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/cyberpath-HQ/Cyberpath/refs/heads/master/src/assets/logo.svg" alt="CyberPath Logo" height="64px"/>
 
-**Making cybersecurity accessible to everyone.**
+**Making cybersecurity accessible, auditable, and actionable for everyone.**
+
+[Website](https://cyberpath-hq.com) • [Blog](https://cyberpath-hq.com/blog) • [CertDb](https://github.com/cyberpath-HQ/CertDb) • [Sentinel](https://sentinel.cyberpath-hq.com) • [Quant](https://quant.cyberpath-hq.com) • [Orbis](https://orbis.cyberpath-hq.com)
+
+</div>
 
 CyberPath is a community-driven organization dedicated to democratizing cybersecurity education, secure development practices, and professional growth. We believe that cybersecurity expertise should be within reach for students, professionals, and organizations of all sizes.
 
@@ -12,6 +18,8 @@ We're building tools, resources, and communities that empower people to:
 - **Develop securely** with modern security practices and frameworks
 - **Build careers** with confidence in an evolving threat landscape
 - **Share expertise** within an open-source community
+- **Assess accurately** with modern vulnerability scoring and risk analysis tools
+- **Stay compliant** with audit-ready tools designed for regulatory frameworks
 
 ## 📚 What We Offer
 
@@ -29,6 +37,27 @@ A free, comprehensive database of cybersecurity certifications and career paths.
 A **plugin-driven desktop application platform** built with Rust and React. Orbis enables developers to create powerful, extensible desktop applications using a declarative JSON-based UI schema system, WASM-sandboxed plugins, and flexible deployment modes (standalone or client-server).
 
 **Learn more:** [github.com/cyberpath-HQ/orbis](https://github.com/cyberpath-HQ/orbis)
+
+### Sentinel
+A **filesystem-backed document DBMS** written in Rust that makes compliance and auditability first-class citizens. Every document is a JSON file with automatic BLAKE3 hashing and optional Ed25519 signatures. Sentinel is built for organizations that need GDPR, SOC2, HIPAA, and PCI-DSS compliance without the complexity of traditional audit infrastructure.
+
+- Native Git integration for immutable audit trails
+- Multiple encryption algorithms (AES-256-GCM, XChaCha20-Poly1305, Ascon-128)
+- Zero vendor lock-in with plain JSON storage
+- Perfect for certificate management, audit logs, and compliance data
+
+**Learn more:** [sentinel.cyberpath-hq.com](https://sentinel.cyberpath-hq.com) | [github.com/cyberpath-HQ/sentinel](https://github.com/cyberpath-HQ/sentinel)
+
+### Quant
+A **next-generation CVSS calculator** that revolutionizes vulnerability severity assessment. Quant makes CVSS scoring fast, accurate, and accessible with support for all versions (v2.0, v3.0, v3.1, v4.0), real-time visualization, and advanced analytics—all while keeping your data private.
+
+- Universal CVSS version support with real-time scoring
+- Score Manager with history, filtering, and comparison tools
+- Visual analytics and severity distribution charts
+- Privacy-first: all calculations happen in your browser
+- Export and share capabilities for team collaboration
+
+**Learn more:** [quant.cyberpath-hq.com](https://quant.cyberpath-hq.com)
 
 ## 🤝 Contributing
 
@@ -53,8 +82,10 @@ Everyone is welcome. Check our individual repository guidelines for specific con
 
 | Project | Purpose | Status |
 |---------|---------|--------|
-| **CertDb** | Certification database and career guidance | Active |
-| **Orbis** | Plugin-driven desktop application platform | Active |
+| **[CertDb](https://certdb.cyberpath-hq.com)** | Certification database and career guidance | Active |
+| **[Orbis](https://orbis.cyberpath-hq.com)** | Plugin-driven desktop application platform | Active |
+| **[Sentinel](https://sentinel.cyberpath-hq.com)** | Filesystem-backed document DBMS for compliance and audit | Active |
+| **[Quant](https://quant.cyberpath-hq.com)** | Next-generation CVSS vulnerability scoring calculator | Active |
 
 ## 🔒 Security First
 
