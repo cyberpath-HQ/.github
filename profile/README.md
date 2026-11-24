@@ -2,99 +2,54 @@
   
 <img src="https://raw.githubusercontent.com/cyberpath-HQ/Cyberpath/refs/heads/master/src/assets/logo.svg" alt="CyberPath Logo" height="64px"/>
 
-**Making cybersecurity accessible, auditable, and actionable for everyone.**
+**Advanced cybersecurity for small and medium-sized businesses, built and operated in Europe**
 
-[Website](https://cyberpath-hq.com) • [Blog](https://cyberpath-hq.com/blog) • [CertDb](https://github.com/cyberpath-HQ/CertDb) • [Sentinel](https://sentinel.cyberpath-hq.com) • [Quant](https://quant.cyberpath-hq.com) • [Orbis](https://orbis.cyberpath-hq.com)
+[Website](https://cyberpath-hq.com) • [Blog](https://cyberpath-hq.com/blog) • [CertDb](https://github.com/cyberpath-HQ/CertDb)
 
 </div>
 
-CyberPath is a community-driven organization dedicated to democratizing cybersecurity education, secure development practices, and professional growth. We believe that cybersecurity expertise should be within reach for students, professionals, and organizations of all sizes.
+CyberPath is a European cybersecurity company that helps micro, small, and medium-sized businesses defend themselves against real threats and meet regulatory requirements such as NIS2 and GDPR. Everything we build and deliver is developed in Europe, runs on European providers, or on open-source software self-hosted in Europe.
 
-## 🎯 Our Mission
+## 🛡️ What We Do
 
-We're building tools, resources, and communities that empower people to:
+### Bastion SOC as a Service
+Bastion is our AI-driven Security Operations Center, delivered as a managed service. It gives small businesses the continuous monitoring, detection and response that were once reserved for large enterprises, at a price that fits an SME budget.
+ 
+- Continuous monitoring and detection of threats across endpoints, servers, network and cloud
+- AI-assisted triage that filters out noise and surfaces the alerts that matter
+- Incident response and support for NIS2 incident notification requirements
+- Clear reports that business owners can actually read
+- Three cumulative plans, **Scudo**, **Fortezza** and **Bastione**, so you can start small and grow into more coverage
+**Learn more:** [cyberpath-hq.com/en](https://cyberpath-hq.com/en/)
 
-- **Learn cybersecurity** through curated knowledge and practical guidance
-- **Develop securely** with modern security practices and frameworks
-- **Build careers** with confidence in an evolving threat landscape
-- **Share expertise** within an open-source community
-- **Assess accurately** with modern vulnerability scoring and risk analysis tools
-- **Stay compliant** with audit-ready tools designed for regulatory frameworks
+### Penetration Testing
+Hands-on offensive security testing carried out by practitioners with a red team background. We test what attackers would actually go after, whether that is your external exposure, your internal network, your web applications or any other part of your environment. Every engagement ends with a prioritized, actionable report, not a list of scanner output.
+ 
+## 🤝 Work With Us
+ 
+- **Businesses:** book a short call to discuss what you need to protect and how we can help
+- **Consultants and MSPs:** resell Bastion to your own clients through our partner program, including white label options
+Get in touch through [cyberpath-hq.com](https://cyberpath-hq.com).
 
-## 📚 What We Offer
 
+## 📚 Community and Open Source
+ 
 ### CertDb
-A free, comprehensive database of cybersecurity certifications and career paths. Whether you're just starting your journey or advancing your expertise, CyberPath helps you navigate the certification landscape with:
-
-- Detailed certification information and prerequisites
-- Career progression paths
-- Cost and time commitment estimates
-- Real-world relevance and industry recognition
-
-**Learn more:** [certdb.cyberpath-hq.com](https://certdb.cyberpath-hq.com)
-
-### Orbis
-A **plugin-driven desktop application platform** built with Rust and React. Orbis enables developers to create powerful, extensible desktop applications using a declarative JSON-based UI schema system, WASM-sandboxed plugins, and flexible deployment modes (standalone or client-server).
-
-**Learn more:** [github.com/cyberpath-HQ/orbis](https://github.com/cyberpath-HQ/orbis)
-
-### Sentinel
-A **filesystem-backed document DBMS** written in Rust that makes compliance and auditability first-class citizens. Every document is a JSON file with automatic BLAKE3 hashing and optional Ed25519 signatures. Sentinel is built for organizations that need GDPR, SOC2, HIPAA, and PCI-DSS compliance without the complexity of traditional audit infrastructure.
-
-- Native Git integration for immutable audit trails
-- Multiple encryption algorithms (AES-256-GCM, XChaCha20-Poly1305, Ascon-128)
-- Zero vendor lock-in with plain JSON storage
-- Perfect for certificate management, audit logs, and compliance data
-
-**Learn more:** [sentinel.cyberpath-hq.com](https://sentinel.cyberpath-hq.com) | [github.com/cyberpath-HQ/sentinel](https://github.com/cyberpath-HQ/sentinel)
-
-### Quant
-A **next-generation CVSS calculator** that revolutionizes vulnerability severity assessment. Quant makes CVSS scoring fast, accurate, and accessible with support for all versions (v2.0, v3.0, v3.1, v4.0), real-time visualization, and advanced analytics—all while keeping your data private.
-
-- Universal CVSS version support with real-time scoring
-- Score Manager with history, filtering, and comparison tools
-- Visual analytics and severity distribution charts
-- Privacy-first: all calculations happen in your browser
-- Export and share capabilities for team collaboration
-
-**Learn more:** [quant.cyberpath-hq.com](https://quant.cyberpath-hq.com)
-
-## 🤝 Contributing
-
-We're built on contributions from the cybersecurity community. Whether you're:
-
-- **Adding certifications** to our database
-- **Reporting issues** or improvements
-- **Developing tools** that advance cybersecurity and developer experience
-- **Sharing knowledge** through documentation
-- **Supporting the mission** as a sponsor or advocate
-
-Everyone is welcome. Check our individual repository guidelines for specific contribution details.
-
-## 🌐 Get Involved
-
+A free, public database of cybersecurity certifications and career paths, open to everyone and open to contributions. It helps students and professionals compare certifications, prerequisites, costs and relevance to the job market.
+ 
+**Explore it:** [certdb.cyberpath-hq.com](https://certdb.cyberpath-hq.com) | **Source:** [github.com/cyberpath-HQ/CertDb](https://github.com/cyberpath-HQ/CertDb)
+ 
+Contributions are welcome: add or correct a certification, report an issue, or improve the documentation. Check the repository guidelines to get started.
+ 
+## 🇪🇺 Built in Europe
+ 
+Our services are developed in Europe and delivered through European providers or open source software hosted in Europe, so that your security data stays under European jurisdiction.
+ 
+## 🌐 Stay in Touch
+ 
 - **Website:** [cyberpath-hq.com](https://cyberpath-hq.com)
+- **Blog:** [cyberpath-hq.com/blog](https://cyberpath-hq.com/blog)
 - **GitHub:** [github.com/cyberpath-HQ](https://github.com/cyberpath-HQ)
-- **Report Issues:** Use GitHub Issues in relevant repositories
-- **Newsletter:** Subscribe for updates on new certifications and industry insights
-
-## 📋 Projects
-
-| Project | Purpose | Status |
-|---------|---------|--------|
-| **[CertDb](https://certdb.cyberpath-hq.com)** | Certification database and career guidance | Active |
-| **[Orbis](https://orbis.cyberpath-hq.com)** | Plugin-driven desktop application platform | Active |
-| **[Sentinel](https://sentinel.cyberpath-hq.com)** | Filesystem-backed document DBMS for compliance and audit | Active |
-| **[Quant](https://quant.cyberpath-hq.com)** | Next-generation CVSS vulnerability scoring calculator | Active |
-
-## 🔒 Security First
-
-Security is built into everything we do. We follow industry best practices for data protection, transparent development, and responsible disclosure.
-
-## 📄 License
-
-Most of our projects operate under open-source licenses. See individual repository LICENSE files for details.
-
 ---
-
-**CyberPath** • Making cybersecurity easier and more accessible for everyone.
+ 
+**CyberPath** • Cybersecurity that small businesses can actually afford.
